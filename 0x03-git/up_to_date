@@ -1,5 +1,8 @@
-git add .
+git add 
 git commit
 git branch
 git checkout
 git push
+git diff
+git log
+git reset
