@@ -1,2 +1,2 @@
-# holbertonschool-zero_day
-# Pokemon King
+# Welcome to my first Repository
+# and my start of Programing career.
